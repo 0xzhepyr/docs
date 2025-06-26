@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "mint",
   "name": "ThinkR Whitepaper",
   "colors": {
     "primary": "#EA580B",
