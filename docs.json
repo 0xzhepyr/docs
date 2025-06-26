@@ -19,14 +19,11 @@
         ]
       },
       {
-        "group": "Essentials",
+        "group": "Ecosystem & Tokenomics",
         "pages": [
-          "essentials/markdown",
-          "essentials/code",
-          "essentials/images",
-          "essentials/settings",
-          "essentials/navigation",
-          "essentials/reusable-snippets"
+          "tokenomics/token",
+          "tokenomics/model",
+          "tokenomics/roadmap"
         ]
       }
     ]
