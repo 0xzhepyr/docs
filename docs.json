@@ -24,6 +24,15 @@
           "tokenomic/token",
           "tokenomic/model",
           "tokenomic/roadmap"
+          ]
+      },
+      {
+        "group": "Help",
+        "pages": [
+          "help/guide",
+          "help/autotrade",
+          "help/contact",
+          "help/disclaimer"
         ]
       }
     ]
