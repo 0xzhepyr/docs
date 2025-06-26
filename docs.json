@@ -4,7 +4,7 @@
   "name": "ThinkR Whitepaper",
   "colors": {
     "primary": "#EA580B",
-    "light": "#07C983",
+    "light": "#EA580B",
     "dark": "#EA580B"
   },
   "favicon": "/favicon.svg",
