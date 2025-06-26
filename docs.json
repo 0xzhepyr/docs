@@ -58,8 +58,8 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Documentation1",
+          "href": "https://mintlify.com/valid",
           "icon": "book-open-cover"
         },
         {
